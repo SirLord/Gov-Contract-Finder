@@ -1,6 +1,6 @@
 # Venv
 venv/
-
+data/
 #Project Files
 *wpu
 *wpr
